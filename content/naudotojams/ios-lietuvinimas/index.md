@@ -49,6 +49,10 @@ Laimei, šiuose įrenginiuose galima diegti papildomas ekranines klaviatūras, p
   Vizualiai iš išbandytų ekraninių klaviatūrų ji atrodo panašiausia į gamyklinę.
   Bazinė „Nosinės“ versija nemokama, tačiau ji turi ir mokamą funkciją – dirbtinio intelekto pagrindu (per internete veikiančią tarnybą) įgyvendintą rašybos taisymą.
   Ribota apimtimi šis funkcionalumas įjungiamas iškart, klaviatūrą įdiegus, todėl, jei nenorite, kad jūsų renkami tekstai keliautų nežinia kur, šį funkcionalumą atjunkite: programos nustatymuose išjunkite parinktį „DI funkcijos“, o pačiai klaviatūrai „iOS“ ar „iPadOS“ nustatymuose neleiskite visateisės prieigos;
+* dar vieną lietuvišką klaviatūrą [„VSKS“][vsks-klaviatūra] (jos kūrėjas – [Antoni][antoni-x]).
+  Joje visos savitosios lietuviškos raidės pateikiamos atskirais klavišais, tad jų nereikia ilgai laikyti.
+  „VSKS“ veikia ir neprisijungus prie interneto bei nerenka renkamo teksto duomenų, o jos pažangesnės funkcijos – dirbtiniu intelektu grįstas žodžių siūlymas bei nosinių taisymas – veikia pačiame įrenginyje, todėl renkamas tekstas niekur nekeliauja.
+  Bazinė klaviatūros versija nemokama, o dalis pažangesnių funkcijų prieinamos įsigijus „Pro“ versiją;
 * jei naudojatės senesnės kartos įrenginiu, kuriame aukščiau paminėtos klaviatūros neveikia, galite išbandyti dar vieną lietuvišką klaviatūrą – Lino Valiuko [„Alt+Shift“][alt-shift-klaviatūra].
   Tai – bene seniausia būtent lietuvių kalbai skirta klaviatūra „iOS“ ekosistemai.
   Deja, nors ekrano nuotraukose ji atrodo puikiai, nuo 2017-ųjų ji nebevystoma, todėl prastai veikia šiuolaikiniuose įrenginiuose.
@@ -72,3 +76,5 @@ Nors į „macOS“ galima nesudėtingai įdiegti papildomus fizinės klaviatūr
 [klaviatūra-nosinė]: https://www.nosine.lt "Klaidas taisanti lietuviška klaviatūra. Pagaliau. – Nosinė – nosine.lt"
 [alt-shift-klaviatūra]: https://www.altshiftkeyboard.com/lt/ "Lietuviška „iOS“ klaviatūra – „Alt+Shift“ klaviatūra – alshiftkeyboard.com"
 [keyman-klaviatūra]: https://keyman.com/iphone-and-ipad/ "Keyman for iPhone and iPad – Keyman – keyman.com"
+[vsks-klaviatūra]: https://vsks.lt "VSKS – lietuviška klaviatūra „iPhone“ telefonui – vsks.lt"
+[antoni-x]: https://x.com/bringshrubberyy "Antoni – x.com"
